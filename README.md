@@ -1,7 +1,9 @@
 ### Hi there 👋, My name is Dmitrii
 #### Ordinary IT enjoyer from Russia
 
+
 I'm new to QA, but eager to learn more! 
+
 
 Skills: Basic QA knowledge, Postman
 
