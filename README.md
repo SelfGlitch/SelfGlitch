@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Dmitrii
 #### Ordinary IT enjoyer from Russia
-![Ordinary IT enjoyer from Russia](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm new to QA, but eager to learn more! 
 
